@@ -1,10 +1,5 @@
 
-# coding: utf-8
 
-# ![ML Logo](http://spark-mooc.github.io/web-assets/images/CS190.1x_Banner_300.png)
-# # **Linear Regression Lab**
-# #### This lab covers a common supervised learning pipeline, using a subset of the [Million Song Dataset](http://labrosa.ee.columbia.edu/millionsong/) from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/YearPredictionMSD). Our goal is to train a linear regression model to predict the release year of a song given a set of audio features.
-# #### ** This lab will cover: **
 # +  ####*Part 1:* Read and parse the initial dataset
 #  + #### *Visualization 1:* Features
 #  + #### *Visualization 2:* Shifting labels
